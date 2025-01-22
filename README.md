@@ -12,4 +12,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about what is fun in Shenzhen.
 - 📫 How to reach me: 502780469@qq.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Help you and help me.
+- ⚡ Fun fact: Charcoal stove chicken pot.
+- 
+<details>
+<summary>My top languages</summary>
+  
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| Python        |
+|     2| Vue3          |
+|     3| C#            |
+  
+</details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
